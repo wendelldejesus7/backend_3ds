@@ -1,0 +1,28 @@
+// Crie 4 funçoes para operaçoes (+, -, *, /)
+// Calcula e imprime resultado
+
+function subtracao (n1, n2){
+    const resultado = n1 - n2
+    console.log("Resultado divisão:" + resultado)
+}
+
+// invocaçao
+subtracao(5, 2)
+subtracao(-50, 10)
+
+function adicao(n1, n2){}
+    const resultado = n1 * n2
+    console.log("Resultado adicao: " + resultado)
+
+
+function multiplicacao(n1, n2){
+    const resultado = n1 * n2
+    console.log("Resultado multiplicacao: "+ resultado)
+}
+
+function divisao(n1, n2){
+    const resultado = n1 / n2
+    console.log("Resultado divisao:" + resultado)
+}
+
+divisao(40, 2)
