@@ -4,7 +4,7 @@
 
 // declaraçao
 function dizOla(){
-    console.log("Olá")
+    console.log("Olá2")
 }
 function olaPessoa(nome){
     console.log("Ola, " + nome)

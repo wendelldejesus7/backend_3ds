@@ -17,7 +17,7 @@ function adicao(n1, n2){}
 
 function multiplicacao(n1, n2){
     const resultado = n1 * n2
-    console.log("Resultado multiplicacao: "+ resultado)
+    console.log("Resultado multiplicacao: "+ resultado2)
 }
 
 function divisao(n1, n2){
